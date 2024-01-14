@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Graphics-Vibe-Developer-Html-5.256.png"type="image/x-icon">
+    <title>Meu site/Daniel</title>
+   
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <audio src="Gully Dreams - Hanu Dixit.mp3" loop controls autoplay></audio>
+</body>
+    <style>
+        body {
+            background-color: black;
+        }
+        img {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body background="download.jpg">
+    <font color="green">
+    <center>
+        <h1>Daniel Gonsalves Nascimento</h1>
+        <hr>
+    <img src="download (biblia).jpg" alt="Bíblia Sagrada">
+    <h1>Bíblia Sagrada</h1>
+    <hr>
+
+    <h2>Versículo</h2>
+    <p>E Deus amou o mundo de tal maneira, que deu o seu filho Unigênito para que todo aquele que nele crê, não 
+        pereça mais tenha a vida eterna.
+    </p>
+        <h2>Stella Laura "Sensibilidade"</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CoDDD-OtHlA" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen></iframe>
+        <hr>
+        <font color="green">
+        <h2>Stella Laura "Vem Senhor"</h2>
+        </font color>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MI3zbnzxpdg" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen></iframe>
+    </center>        
+    </font>
+    </body>
+</html>
